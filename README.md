@@ -32,23 +32,6 @@ All environmental and infrastructural variables are derived automatically.
 
 ---
 
-## 🏗 System Architecture
-
-User
-↓
-Location Input
-↓
-Location-Based Variable Extraction
-↓
-AI Flood Prediction Model (Random Forest)
-↓
-Flood Probability Output
-↓
-├── Interactive Map Visualization
-└── Community Alert System
-
----
-
 ## 🧠 AI Model Details
 
 - **Model Type:** Random Forest  
