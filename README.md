@@ -3,8 +3,6 @@
 
 FloodWatch AI is an AI-powered, location-based flood risk prediction and community alert platform designed to enhance localized disaster preparedness and climate resilience.
 
-This project was developed for the **Stockholm Junior Water Prize – India**.
-
 ---
 
 ## 🚩 Problem Statement
